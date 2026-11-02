@@ -1,0 +1,1 @@
+# AI-Powered-SQL-Analyst-Natural-Language-to-PostgreSQL
